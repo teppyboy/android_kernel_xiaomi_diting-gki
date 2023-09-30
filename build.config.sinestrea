@@ -1,3 +1,4 @@
 . ${ROOT_DIR}/${KERNEL_DIR}/build.config.gki.aarch64
 
+CLANG_PREBUILT_BIN=prebuilts-master/clang/host/linux-x86/clang-r498229b/bin
 DEFCONFIG=sinestrea_defconfig
